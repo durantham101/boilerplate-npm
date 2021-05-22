@@ -3,11 +3,11 @@
 	"description":"A project that does something awesome",
 	"keywords":["trial","tutorial","noob","freecodecamp"],
 	"license": "MIT",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "~2.10.2"
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
